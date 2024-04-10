@@ -21,7 +21,7 @@ class TodoItem extends StatelessWidget {
     }
 
     return Padding(
-      padding: const EdgeInsets.all(8),
+      padding: const EdgeInsets.all(10),
       child: Row(
         children: [
           Icon(icon),
